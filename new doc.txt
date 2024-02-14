@@ -1,0 +1,16 @@
+Hi i am sarath babu 
+this file is eamty 
+created for use to simple
+this is main one
+created file are used
+this emty file no coding
+i want to commit ti file 
+first commit the stage one
+now i don't need ant change 
+can u see what is display 
+don't want filre
+go to the file changes are availabe
+hey ashok
+git restore yes
+i am making changes and going to create as d b config why 
+git status yes
